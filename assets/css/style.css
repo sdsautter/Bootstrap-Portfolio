@@ -112,6 +112,16 @@ input {
 	font-size: 2em;
 }
 
+.header-name  {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    vertical-align: center;
+    font-family: 'Broadway', 'Helvetica Neue', Helvetica, sans-serif;
+    height: 2em;
+    line-height: 2em;
+}
+
 .nav-pills > li > a {
 	color: black;
 }
